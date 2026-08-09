@@ -22,7 +22,7 @@
 
 ### `// sobre mim`
 
-Olá! Sou **Gustavo Bayer**, mais conhecido como **Kayser**, desenvolvedor apaixonado por **Python**, **SQL** e **Inteligência Artificial**.
+Olá! Sou **Gustavo Bayer**, mais conhecido como **Kayser**, recém-graduado em Análise e Desenvolvimento de Sistemas pela UniCesumar de Ponta Grossa, e sou extremamente apaixonado por **Python**, **SQL** e **Inteligência Artificial**.
 Meu foco está em construir pipelines de dados robustos, experimentos de Machine Learning e aplicações com **LLMs** que geram impacto real.
 
 > *"Transformando dados em decisões e linguagem em soluções."*
