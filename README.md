@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B69,50:7B4FD4,100:2FD4F4&height=220&section=header&text=BayerKosmo&fontSize=60&fontColor=E0E8FF&animation=fadeIn&fontAlignY=38&desc=Python%20%E2%80%A2%20SQL%20%E2%80%A2%20AI%20%E2%80%A2%20ML%20%E2%80%A2%20LLMs&descAlignY=58&descSize=20" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B69,50:7B4FD4,100:2FD4F4&height=220&section=header&text=KAYSER&fontSize=60&fontColor=E0E8FF&animation=fadeIn&fontAlignY=38&desc=Python%20%E2%80%A2%20SQL%20%E2%80%A2%20AI%20%E2%80%A2%20ML%20%E2%80%A2%20LLMs&descAlignY=58&descSize=20" alt="Header" width="100%" />
 </div>
 
 <div align="center">
@@ -15,14 +15,14 @@
   <a href="mailto:gutobayerr@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-9D6EE8?style=for-the-badge&logo=gmail&logoColor=E0E8FF&labelColor=0F0F22" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=BAYERKOSMO&color=9D6EE8&style=for-the-badge&label=VISITAS" />
+  <img src="https://komarev.com/ghpvc/?username=KAYSERBN&color=9D6EE8&style=for-the-badge&label=VISITAS" />
 </div>
 
 ---
 
 ### `// sobre mim`
 
-Olá! Sou **Gustavo Bayer**, mais conhecido como **BayerKosmo** ou simplesmente **Bayer**, recém-graduado em Análise e Desenvolvimento de Sistemas pela UniCesumar de Ponta Grossa, e sou extremamente apaixonado por **Python**, **SQL** e **Inteligência Artificial**.
+Olá! Sou **Gustavo Bayer**, mais conhecido como **Kayser** ou simplesmente **Bayer**, recém-graduado em Análise e Desenvolvimento de Sistemas pela UniCesumar de Ponta Grossa, e sou extremamente apaixonado por **Python**, **SQL** e **Inteligência Artificial**.
 Meu foco está em construir pipelines de dados robustos, experimentos de Machine Learning e aplicações com **LLMs** que geram impacto real.
 
 > *"Transformando dados em decisões e linguagem em soluções."*
