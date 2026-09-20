@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B69,50:7B4FD4,100:2FD4F4&height=220&section=header&text=KAYSER&fontSize=60&fontColor=E0E8FF&animation=fadeIn&fontAlignY=38&desc=Python%20%E2%80%A2%20SQL%20%E2%80%A2%20AI%20%E2%80%A2%20ML%20%E2%80%A2%20LLMs&descAlignY=58&descSize=20" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B69,50:7B4FD4,100:2FD4F4&height=220&section=header&text=Blue&fontSize=60&fontColor=E0E8FF&animation=fadeIn&fontAlignY=38&desc=Python%20%E2%80%A2%20SQL%20%E2%80%A2%20AI%20%E2%80%A2%20ML%20%E2%80%A2%20LLMs&descAlignY=58&descSize=20" alt="Header" width="100%" />
 </div>
 
 <div align="center">
@@ -15,14 +15,14 @@
   <a href="mailto:gutobayerr@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-9D6EE8?style=for-the-badge&logo=gmail&logoColor=E0E8FF&labelColor=0F0F22" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=KAYSERBN&color=9D6EE8&style=for-the-badge&label=VISITAS" />
+  <img src="https://komarev.com/ghpvc/?username=blue6k&color=9D6EE8&style=for-the-badge&label=VISITAS" />
 </div>
 
 ---
 
 ### `// sobre mim`
 
-Olá! Sou **Gustavo Bayer**, mais conhecido como **Kayser** ou simplesmente **Bayer**, recém-graduado em Análise e Desenvolvimento de Sistemas pela UniCesumar de Ponta Grossa, e sou extremamente apaixonado por **Python**, **SQL** e **Inteligência Artificial**.
+Olá! Sou **Gustavo Bayer**, mais conhecido como **Blue** ou simplesmente **Bayer**, recém-graduado em Análise e Desenvolvimento de Sistemas pela UniCesumar de Ponta Grossa, e sou extremamente apaixonado por **Python**, **SQL** e **Inteligência Artificial**.
 Meu foco está em construir pipelines de dados robustos, experimentos de Machine Learning e aplicações com **LLMs** que geram impacto real.
 
 > *"Transformando dados em decisões e linguagem em soluções."*
@@ -85,12 +85,12 @@ Meu foco está em construir pipelines de dados robustos, experimentos de Machine
 ### `// github stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kayserbn&show_icons=true&hide_border=true&bg_color=08081A&title_color=9D6EE8&text_color=E0E8FF&icon_color=2FD4F4&ring_color=7B4FD4" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayserbn&layout=compact&hide_border=true&bg_color=08081A&title_color=9D6EE8&text_color=E0E8FF&icon_color=2FD4F4&langs_count=6" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=blue6k&show_icons=true&hide_border=true&bg_color=08081A&title_color=9D6EE8&text_color=E0E8FF&icon_color=2FD4F4&ring_color=7B4FD4" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blue6k&layout=compact&hide_border=true&bg_color=08081A&title_color=9D6EE8&text_color=E0E8FF&icon_color=2FD4F4&langs_count=6" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kayserbn&hide_border=true&background=08081A&stroke=7B4FD4&ring=9D6EE8&fire=2FD4F4&currStreakNum=E0E8FF&sideNums=E0E8FF&currStreakLabel=9D6EE8&sideLabels=5B8CF7&dates=C8D0E8" width="65%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blue6k&hide_border=true&background=08081A&stroke=7B4FD4&ring=9D6EE8&fire=2FD4F4&currStreakNum=E0E8FF&sideNums=E0E8FF&currStreakLabel=9D6EE8&sideLabels=5B8CF7&dates=C8D0E8" width="65%" />
 </div>
 
 ---
